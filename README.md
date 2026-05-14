@@ -23,6 +23,8 @@ The project runs without an API key — it falls back to a mock provider that re
 npm run setup
 ```
 
+#This is just a comment, do not mind it
+
 > **Don't run `npm audit fix`.** Dependencies are pinned to specific versions that work together. The vulnerability warnings are cosmetic for a local-only project, and `audit fix` can bump packages past compatible versions and break the app.
 
 This command will:
